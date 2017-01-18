@@ -1,0 +1,2379 @@
+[
+    {
+        "id": "001",
+        "label": "Reservoir Domain",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "005",
+        "label": "BHL",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "006",
+        "label": "PropNum",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "007",
+        "label": "Res Dev Notes",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "008",
+        "label": "Res Dev Engineer",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "009",
+        "label": "Reserve Class",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Proved,Possible"
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "010",
+        "label": "Type Curve Name",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "011",
+        "label": "Type Curve EUR",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "012",
+        "label": "Capital Model",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "013",
+        "label": "Gross D&C - BCP ($)",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "014",
+        "label": "Gross D&C - ACP ($)",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "015",
+        "label": "Total Gross D&C ($)",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "016",
+        "label": "Total Net D&C ($)",
+        "type": "numberfield",
+        "config": [
+            {
+                "minLength": "",
+                "maxLength": ""
+            }
+        ],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "017",
+        "label": "PUD Must Spud Date",
+        "type": "datefield",
+        "config": [
+            {
+                "value": ""
+            }
+        ],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "018",
+        "label": "Do you approve Phase 1 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "019",
+        "label": "Rate of Return",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "020",
+        "label": "NPV",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "021",
+        "label": "Anticipated Initial Prod - Oil",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "022",
+        "label": "Anticipated Initial Prod - Water",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "023",
+        "label": "Anticipated Initial Prod - Gas",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "025",
+        "label": "SHL N/S Call",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "026",
+        "label": "SHL FNL/FSL",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "FNL,FSL"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "027",
+        "label": "SHL E/W Call",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "028",
+        "label": "SHL FEL/FWL",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "FEL,FWL"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "029",
+        "label": "Mineral Ownership",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "030",
+        "label": "Spudder On Date ",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "031",
+        "label": "Intermediate On Date",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "032",
+        "label": "Lateral On Date",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "033",
+        "label": "HBP?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "034",
+        "label": "Spacing Case #/Hearing Date",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "035",
+        "label": "Spacing Order #",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "036",
+        "label": "WI",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "037",
+        "label": "NRI",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "038",
+        "label": "Pooling Case #/Hearing Date",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "039",
+        "label": "Pooling Order #",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "040",
+        "label": "Landman",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "041",
+        "label": "Land Notes",
+        "type": "textfield",
+        "config": [
+            {
+                "value": null,
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "042",
+        "label": "Fed Min Own",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "043",
+        "label": "State Min Own",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "044",
+        "label": "Indian Min Own",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "045",
+        "label": "Do you approve Phase 1 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "046",
+        "label": "Election Proposal",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "047",
+        "label": "Title Opinion Received",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "049",
+        "label": "Contingent On",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "editable": false,
+                "allowBlank": true
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "050",
+        "label": "Target Formation",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "051",
+        "label": "Geo Category",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Exploratory,Development"
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "052",
+        "label": "Contingent?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "053",
+        "label": "Geology Notes",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "054",
+        "label": "Geologist",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "055",
+        "label": "Geo Progs (Progs Date)",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "editable": false,
+                "allowBlank": false
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "056",
+        "label": "Geo Progs Status",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "057",
+        "label": "Logs Required ",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": "",
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "058",
+        "label": "Core Required",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "059",
+        "label": "DST Required",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "060",
+        "label": "Do you approve Phase 1 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "061",
+        "label": "Management Approval",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "062",
+        "label": "Wellbore Type",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "063",
+        "label": "Prospect",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "064",
+        "label": "Field Office",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "065",
+        "label": "Gas Purchaser",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "066",
+        "label": "Compressor Station",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "067",
+        "label": "Penetrates Fed?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "068",
+        "label": "Fed in Spacing Unit?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "069",
+        "label": "Plat Received Date",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "070",
+        "label": "Surface Hole Location",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "071",
+        "label": "Latitude",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "072",
+        "label": "Longitude",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "073",
+        "label": "Plat Approved Date (Mark Plats as \"Final\")",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "074",
+        "label": "Do you approve Phase 1 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "075",
+        "label": "Setback requirement from E/W ",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "076",
+        "label": "Setback requirement from N/S",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "077",
+        "label": "Proper Spacing Confirmed",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "078",
+        "label": "State Permit Sent",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "079",
+        "label": "State Permit Approved",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "080",
+        "label": "Federal Permit Sent",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "081",
+        "label": "Federal Permit Approved",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "082",
+        "label": "API #",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "083",
+        "label": "Regulatory Contact",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "086",
+        "label": "No. of wells in Pad",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "087",
+        "label": "Pad Name",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "088",
+        "label": "Drilling Engineer",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "089",
+        "label": "Well Tracker ID",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "090",
+        "label": "Well Name",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "091",
+        "label": "County",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "092",
+        "label": "State",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "093",
+        "label": "Do you approve Phase 1 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "fieldStyle": "bold",
+                "allowBlank": false,
+                "checked": false,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "094",
+        "label": "Rig On Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "095",
+        "label": "Rig Off Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "Geologic Offset Info",
+        "sub_section": "Expected Drig Difficulties"
+    },
+    {
+        "id": "096",
+        "label": "Spud Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "097",
+        "label": "Rig Release Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "098",
+        "label": "# of Drilling Phases",
+        "type": "numberfield",
+        "config": [
+            {
+                "allowBlank": true,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "099",
+        "label": "Frac Type",
+        "type": "textfield",
+        "config": [
+            {
+                "allowBlank": true,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "100",
+        "label": "# of Frac Stages",
+        "type": "numberfield",
+        "config": [
+            {
+                "allowBlank": true,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "101",
+        "label": "Do you approve Phase 2 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "fieldStyle": "bold",
+                "checked": false,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "102",
+        "label": "Frac Start Date (Frac ON )",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "bold",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "103",
+        "label": "Frac Finish Date ( Frac OFF)",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "bold",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "104",
+        "label": "Prep Start Date (Cleanout On)",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "105",
+        "label": "Prep Finish Date (Cleanout OFF)",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "106",
+        "label": "Completions Engineer",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "107",
+        "label": "Frac",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "108",
+        "label": "Must Frac by date",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "editable": false
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "109",
+        "label": "Completions Notes",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "110",
+        "label": "Planned First Production",
+        "type": "datefield",
+        "config": [
+            {
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "111",
+        "label": "Do you approve Phase 3 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "fieldStyle": "bold",
+                "checked": true,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "112",
+        "label": "IP Test Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": true
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "113",
+        "label": "IP Oil",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "decimalPrecision": 1,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "114",
+        "label": "IP Gas",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "decimalPrecision": 1,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "115",
+        "label": "IP Water",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "decimalPrecision": 1,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "116",
+        "label": "Spacing Unit Desc",
+        "type": "textfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "117",
+        "label": "Lease Expiration",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "118",
+        "label": "Acres Expiring",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "119",
+        "label": "Abstract Ordered",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "121",
+        "label": "Staking Complete ?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "122",
+        "label": "Date Staking Completed",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "123",
+        "label": "Surface Restrictions",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "124",
+        "label": "Construction Start/Finish",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "125",
+        "label": "Do you approve Phase 2 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "fieldStyle": "bold",
+                "checked": false,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "126",
+        "label": "BHL E/W footage",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    }, {
+        "id": "127",
+        "label": "AFE Amounts",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "128",
+        "label": "Do you approve Phase 2 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "fieldStyle": "bold",
+                "checked": false,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "129",
+        "label": "Gas Connection Date",
+        "type": "datefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "130",
+        "label": "Do you approve Phase 3 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "fieldStyle": "bold",
+                "checked": true,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "132",
+        "label": "Upload Survey Info",
+        "type": "filefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "133",
+        "label": "Upload Plats for Review",
+        "type": "filefield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": true,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "134",
+        "label": "Do you approve Phase 3 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "bold",
+                "checked": true,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "135",
+        "label": "Surface Ownership",
+        "type": "combobox",
+        "config": [
+            {
+                "allowBlank": true,
+                "fieldStyle": "",
+                "checked": true,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "136",
+        "label": "Contractor",
+        "type": "textfield",
+        "config": [
+            {
+                "allowBlank": true,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "137",
+        "label": "Cuttings/Reserve Pit",
+        "type": "textfield",
+        "config": [
+            {
+                "allowBlank": true,
+                "fieldStyle": "",
+                "checked": true,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "138",
+        "label": "Construction Start date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "139",
+        "label": "Construction Finish date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "land",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "140",
+        "label": "Tank Battery Start Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "141",
+        "label": "Tank Battery Finish Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "142",
+        "label": "Clear to Spud?",
+        "type": "combobox",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "",
+                "checked": true,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "projectDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "143",
+        "label": "Approved to drill?",
+        "type": "combobox",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "",
+                "checked": true,
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "drilling",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "144",
+        "label": "Run Tubing On date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": true,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "145",
+        "label": "Run Tubing Off date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": true,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "146",
+        "label": "Pad Frac On Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "147",
+        "label": "Pad Frac Off Date",
+        "type": "datefield",
+        "config": [
+            {
+                "allowBlank": false,
+                "fieldStyle": "",
+                "checked": true
+            }],
+        "validator": "",
+        "tile_id": "completions",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "148",
+        "label": "Do you approve Phase 3 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "149",
+        "label": "Do you approve Phase 3 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "150",
+        "label": "Do you approve Phase 2 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "resourceDevelopment",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "151",
+        "label": "Do you approve Phase 2 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "152",
+        "label": "Do you approve Phase 1 fields after review?",
+        "type": "combobox",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": "",
+                "store": "Yes,No"
+            }],
+        "validator": "",
+        "tile_id": "production",
+        "section": "",
+        "sub_section": ""
+    },
+    {
+        "id": "153",
+        "label": "BHL N/S footage",
+        "type": "numberfield",
+        "config": [
+            {
+                "value": "",
+                "allowBlank": false,
+                "emptyText": false,
+                "minLength": "",
+                "maxLength": ""
+            }],
+        "validator": "",
+        "tile_id": "geology",
+        "section": "",
+        "sub_section": ""
+    }
+]

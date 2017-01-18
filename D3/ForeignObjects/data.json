@@ -1,0 +1,22 @@
+[
+    {
+        "State": "Energy",
+        "Quote1": 1800,
+        "Quote2": 1750
+  },
+    {
+        "State": "Metering",
+        "Quote1": 1250,
+        "Quote2": 1000
+  },
+    {
+        "State": "Renewable",
+        "Quote1": 800,
+        "Quote2": 1100
+  },
+    {
+        "State": "Retailer Service Fee",
+        "Quote1": 700,
+        "Quote2": 650
+  }
+]

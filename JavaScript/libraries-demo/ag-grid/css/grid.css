@@ -1,0 +1,54 @@
+input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+}
+.ag-body-container{
+	width:100% !important;
+}
+.gridHeaderCheckBox {
+  margin-left: 3px !important;
+}
+.ag-fresh .ag-header {
+  background: none;
+  border-bottom: 1px solid #BBB;
+  background-image: -webkit-linear-gradient(#F4F4F4, #DDD);
+  background-image: linear-gradient(#F4F4F4, #DDD);
+}
+.ag-header-cell {
+  font-weight: bold;
+  font-family: Tahoma, Geneva, Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+.ag-fresh .ag-header-cell {
+  border-right: 1px solid #BBB;
+}
+.ag-fresh .ag-cell-no-focus {
+  border-right: 1px solid #DDD;
+  border-top: 1px solid transparent;
+  border-left: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+}
+.ag-fresh .ag-cell-focus {
+  border: 0;
+  border-right: 1px solid #DDD;
+}
+.ag-fresh .ag-body .ag-row-odd {
+  background-color: #F4F4F4;
+}
+.ag-fresh .ag-row-selected {
+  background-color: #CFB !important;
+}
+.ag-header-cell-text {
+  text-overflow: clip;
+  word-wrap: break-word;
+  white-space: normal;
+}
+.ag-cell.center {
+  text-align: center;
+}
+div.ag-root {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+} 

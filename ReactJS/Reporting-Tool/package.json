@@ -1,0 +1,36 @@
+{
+  "name": "reporting-tool",
+  "version": "1.0.1",
+  "description": "reporting tool with widgets and dynamic layout",
+  "main": "app.js",
+  "dependencies": {
+    "classnames": "^2.2.4",
+    "react-dimensions": "^1.0.2",
+    "react-dnd": "^2.1.4",
+    "react-dnd-html5-backend": "^2.1.2",
+    "react-grid-layout": "^0.12.1",
+    "react-input-autosize": "^0.6.13",
+    "react-router": "^2.3.0",
+    "react-select": "^0.9.1",
+    "react-widgets": "^3.3.1"
+  },
+  "devDependencies": {
+    "babelify": "^7.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijay Sarin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaysarin/training-data.git"
+  },
+  "keywords": [
+    "reporting"
+  ],
+  "bugs": {
+    "url": "https://github.com/vijaysarin/training-data/issues"
+  },
+  "homepage": "https://github.com/vijaysarin/training-data#readme"
+}

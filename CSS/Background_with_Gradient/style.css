@@ -1,0 +1,7 @@
+html {
+    height: 100%;	
+}
+
+body {	
+    background: linear-gradient(45deg, rgba(5,49,105,0.3), rgba(99,34,90, 0.7)), url('bg-pattern.png') repeat;
+}

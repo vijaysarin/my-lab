@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    <title>D3 SVG Foreign Objects Demo</title>
+    <script type="text/javascript" src="libs/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="libs/angular.min.js"></script>
+    <script type="application/javascript" src="libs/d3.v3.min.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div ng-app="myApp" ng-controller="MainCtrl">
+        <input type="text" value="" placeHolder="Quote #1 (Blue)" id="quoteConfigInput1" />
+        <span>&nbsp;&nbsp;&nbsp;</span>
+        <input type="text" value="" placeHolder="Quote #2 (Pink)" id="quoteConfigInput2" />
+        <span>&nbsp;&nbsp;&nbsp;</span>
+        <button id="quoteConfigInputUpdate">Update Chart</button>
+        <br/>
+        <br/>
+        <script type="application/javascript" src="app.js"></script>
+        <Grouped-Bar-Chart name='myChart' legendshape="rect"> </Grouped-Bar-Chart>
+    </div>
+</body>
+
+</html>

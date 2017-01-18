@@ -1,0 +1,21 @@
+<html>
+
+<head>
+  <title>Ag-Grid Demo</title>
+  <script src="libs/ag-grid.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="css/grid.css" />
+  <script src="app.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <p>
+    <input type="button" id="exportGridData" value="Export to CSV" />
+  </p>
+  <div id="gridContainer" class="ag-fresh" tabindex="1"></div>
+  <script type="text/javascript">
+    initGridView(document.getElementById("gridContainer"));
+
+  </script>
+</body>
+
+</html>

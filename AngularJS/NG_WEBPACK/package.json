@@ -1,0 +1,15 @@
+{
+    "name": "ng-gulp-webpack-demo",
+    "version": "1.0.0",
+    "description": "Demo for AngularJS Webpack Integration",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "webpack": "^1.13.1"
+    },
+    "scripts": {
+        "start": "webpack-dev-server --content-base app --hot"
+    },
+    "author": "Vijay Sarin",
+    "license": "MIT"
+}

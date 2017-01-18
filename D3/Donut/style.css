@@ -1,0 +1,46 @@
+html, body, svg {    
+    font-family: "Helvetica"
+}
+
+.breakupDonutChartHolder{
+	float:left;
+}
+
+.donutChartArc {
+    stroke-width: 4px;
+    stroke: white;
+}
+
+.donutChartOuterArc {
+    stroke-width: 4px;
+    stroke: white;
+}
+
+.donutLabelTextElement:before{
+	float: left;
+	width: 0;
+	white-space: nowrap;
+	content: "...........................................";
+}
+
+.breakupDonutContentHolder{
+	float:left;
+}
+
+.breakupDonutStarTitle{
+	margin-top: 15px;
+}
+
+.breakupDonutLegend {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.donutChartLegend{
+	font-size:14px;
+	color: #627380;
+}
+
+.breakupDonutDmaBox{
+	margin-left: 25px;
+}

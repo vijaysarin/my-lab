@@ -1,0 +1,22 @@
+<html>
+
+<head>
+    <title>D3 Donut Demo</title>
+    <script type="text/javascript" src="libs/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="libs/angular.min.js"></script>
+    <script type="application/javascript" src="libs/d3.v3.min.js"></script>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div ng-app="myApp" ng-controller="MainCtrl">
+        <script type="application/javascript" src="app.js"></script>		
+        <Donut-Chart name='myChart'>
+        </Donut-Chart>
+		<div style="clear:both;"></div>
+		<div style="font:14px Helvetica; color:#627380; margin-top:20px;">* The doughnut chart represents the negotiable component. #DMA charge is extra and it comes over the total charge.<br/>
+		<span style="font:14px Helvetica; color: #e44c4c">Non-negotiable components like Network charge, AMEO pool fee and AEMO ancillary is not included.</span></div>
+    </div>
+</body>
+
+</html>
